@@ -10,10 +10,10 @@
     </div>
 
     <div id="video">
-      <video width="70%" height="auto" controls>
+      <!-- <video width="70%" height="auto" controls>
         <source src="../assets/Klara_Nemcikova.mp4" type="video/mp4">
-      </video>
-    </div>
+      </video> -->
+    </div> 
 
    
     <v-row
